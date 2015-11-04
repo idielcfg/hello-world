@@ -1,2 +1,2 @@
 # hello-world
-making the initial titorial
+making the initial tutorial
